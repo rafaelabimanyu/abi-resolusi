@@ -4,3 +4,9 @@ test abi git github,
 -test abi git github,
 -test abi git github,
 -test abi git github
+
+-test kedua abi git github, 
+-test kedua abi git github,
+-test kedua abi git github,
+-test kedua abi git github,
+-test kedua abi git github,
